@@ -9,25 +9,26 @@ I am a passionate **Data Analyst** with a strong focus on machine learning and d
 ## Skills
 
 ### **Programming Languages**
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =16x16) **Python**
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL_Logo.svg =16x16) **SQL**
-- ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R-logo.svg =16x16) **R**
-- ![Java](https://upload.wikimedia.org/wikipedia/commons/d/d2/Java_logo.svg =16x16) **Java**
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/a/a7/HTML5_logo.svg =16x16) **HTML**
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg =16x16) **CSS**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) **SQL**
+- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) **R**
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) **Java**
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML**
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS**
 
 ### **Data Analysis Tools**
-- ![Excel](https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo.svg =16x16) **Excel** (Advanced functions, Pivot Tables, VLOOKUP)
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/3/36/Power_BI_Logo.svg =16x16) **Power BI**
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **Excel**
+- ![Power BI](https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=powerbi&logoColor=white) **Power BI**
 
 ### **Machine Learning Frameworks**
-- ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg =16x16) **TensorFlow**
-- ![Keras](https://upload.wikimedia.org/wikipedia/commons/e/e1/Keras_logo.svg =16x16) **Keras**
-- ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/1/1d/PyTorch_logo_icon.svg =16x16) **PyTorch**
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) **TensorFlow**
+- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) **Keras**
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) **PyTorch**
 
 ### **Libraries**
-- ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg =16x16) **Pandas**
-- ![NumPy](https://upload.wikimedia.org/wikipedia/commons/9/9e/NumPy_logo.svg =16x16) **NumPy**
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) **Pandas**
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) **NumPy**
+
 
 
 ## Experience
