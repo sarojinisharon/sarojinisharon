@@ -4,39 +4,31 @@
 # Data Analyst | Machine Learning Enthusiast | Deep Learning & Neural Networks Expert
 
 ## Overview
-I am a passionate **Data Analyst** with a strong focus on machine learning and data science. My expertise spans **data analysis**, **model building**, and **deep learning** techniques. With extensive experience in **Python**, **SQL**, **Excel**, and **Power BI**, I strive to extract meaningful insights and actionable conclusions from data. I have hands-on experience in building machine learning models using advanced algorithms and frameworks such as **TensorFlow**, **Keras**, **PyTorch**, **Scikit-Learn**, and **XGBoost**, along with a deep understanding of the key principles of **supervised** and **unsupervised learning**.
+I am a passionate **Data Analyst** with a strong focus on machine learning and data science. My expertise spans **data analysis**, **model building**, and **deep learning** techniques. With extensive experience in **Python**, **SQL**, **Excel**, and **Power BI**, I strive to extract meaningful insights and actionable conclusions from data. I have hands-on experience in building machine learning models using advanced algorithms and frameworks such as **TensorFlow**, **Keras**, **PyTorch**, **Scikit-Learn**, along with a deep understanding of the key principles of **supervised** and **unsupervised learning**.
 
 ## Skills
 
-### **Programming Languages:**
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =32x32) **Python**  
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL_Logo.svg =32x32) **SQL**  
-- ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R-logo.svg =32x32) **R**  
-- ![Java](https://upload.wikimedia.org/wikipedia/commons/d/d2/Java_logo.svg =32x32) **Java**  
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/a/a7/HTML5_logo.svg =32x32) **HTML**  
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg =32x32) **CSS**
+### **Programming Languages**
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =16x16) **Python**
+- ![SQL](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL_Logo.svg =16x16) **SQL**
+- ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R-logo.svg =16x16) **R**
+- ![Java](https://upload.wikimedia.org/wikipedia/commons/d/d2/Java_logo.svg =16x16) **Java**
+- ![HTML](https://upload.wikimedia.org/wikipedia/commons/a/a7/HTML5_logo.svg =16x16) **HTML**
+- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg =16x16) **CSS**
 
-### **Data Analysis & Visualization:**
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/3/36/Power_BI_Logo.svg =32x32) **Power BI**  
-- ![Excel](https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo.svg =32x32) **Excel** (Advanced functions, Pivot Tables, VLOOKUP)  
-- ![Plotly](https://upload.wikimedia.org/wikipedia/commons/6/64/Plotly_logo.svg =32x32) **Plotly**  
-- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/86/Matplotlib_Logo.svg =32x32) **Matplotlib**  
-- ![Seaborn](https://upload.wikimedia.org/wikipedia/commons/0/0f/Seaborn-logo.svg =32x32) **Seaborn**
+### **Data Analysis Tools**
+- ![Excel](https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo.svg =16x16) **Excel** (Advanced functions, Pivot Tables, VLOOKUP)
+- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/3/36/Power_BI_Logo.svg =16x16) **Power BI**
 
-### **Machine Learning & Deep Learning:**
-- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg =32x32) **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost, KNN  
-- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg =32x32) **Unsupervised Learning**: K-Means Clustering, DBSCAN, PCA, Hierarchical Clustering  
-- ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg =32x32) **Neural Networks**: ANN, CNN, RNN  
-- ![Keras](https://upload.wikimedia.org/wikipedia/commons/e/e1/Keras_logo.svg =32x32) **Transfer Learning**: Fine-tuning pre-trained models like VGG, ResNet, Inception  
-- ![Autoencoders](https://upload.wikimedia.org/wikipedia/commons/f/fd/Autoencoder_example.svg =32x32) **Autoencoders**: For unsupervised learning and anomaly detection  
-- ![Deep Learning](https://upload.wikimedia.org/wikipedia/commons/c/c9/Deep_learning_logo.png =32x32) **Deep Learning Frameworks**:  
-  - **TensorFlow**  
-  - **Keras**  
-  - **PyTorch**  
+### **Machine Learning Frameworks**
+- ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg =16x16) **TensorFlow**
+- ![Keras](https://upload.wikimedia.org/wikipedia/commons/e/e1/Keras_logo.svg =16x16) **Keras**
+- ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/1/1d/PyTorch_logo_icon.svg =16x16) **PyTorch**
 
-### **Other Skills:**
-- ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg =32x32) **Pandas**  
-- ![NumPy](https://upload.wikimedia.org/wikipedia/commons/9/9e/NumPy_logo.svg =32x32) **NumPy**  
+### **Libraries**
+- ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg =16x16) **Pandas**
+- ![NumPy](https://upload.wikimedia.org/wikipedia/commons/9/9e/NumPy_logo.svg =16x16) **NumPy**
+
 
 ## Experience
 
