@@ -9,36 +9,34 @@ I am a passionate **Data Analyst** with a strong focus on machine learning and d
 ## Skills
 
 ### **Programming Languages:**
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**  
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL_Logo.svg) **SQL**  
-- ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R-logo.svg) **R**  
-- ![Java](https://upload.wikimedia.org/wikipedia/commons/d/d2/Java_logo.svg) **Java**  
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/a/a7/HTML5_logo.svg) **HTML**  
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg) **CSS**
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =32x32) **Python**  
+- ![SQL](https://upload.wikimedia.org/wikipedia/commons/0/01/SQL_Logo.svg =32x32) **SQL**  
+- ![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R-logo.svg =32x32) **R**  
+- ![Java](https://upload.wikimedia.org/wikipedia/commons/d/d2/Java_logo.svg =32x32) **Java**  
+- ![HTML](https://upload.wikimedia.org/wikipedia/commons/a/a7/HTML5_logo.svg =32x32) **HTML**  
+- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg =32x32) **CSS**
 
 ### **Data Analysis & Visualization:**
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/3/36/Power_BI_Logo.svg) **Power BI**  
-- ![Excel](https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo.svg) **Excel** (Advanced functions, Pivot Tables, VLOOKUP)  
-- ![Plotly](https://upload.wikimedia.org/wikipedia/commons/6/64/Plotly_logo.svg) **Plotly**  
-- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/86/Matplotlib_Logo.svg) **Matplotlib**  
-- ![Seaborn](https://upload.wikimedia.org/wikipedia/commons/0/0f/Seaborn-logo.svg) **Seaborn**
+- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/3/36/Power_BI_Logo.svg =32x32) **Power BI**  
+- ![Excel](https://upload.wikimedia.org/wikipedia/commons/5/51/Microsoft_Excel_2013_logo.svg =32x32) **Excel** (Advanced functions, Pivot Tables, VLOOKUP)  
+- ![Plotly](https://upload.wikimedia.org/wikipedia/commons/6/64/Plotly_logo.svg =32x32) **Plotly**  
+- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/86/Matplotlib_Logo.svg =32x32) **Matplotlib**  
+- ![Seaborn](https://upload.wikimedia.org/wikipedia/commons/0/0f/Seaborn-logo.svg =32x32) **Seaborn**
 
 ### **Machine Learning & Deep Learning:**
-- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost, KNN  
-- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) **Unsupervised Learning**: K-Means Clustering, DBSCAN, PCA, Hierarchical Clustering  
-- ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg) **Neural Networks**: ANN, CNN, RNN  
-- ![Keras](https://upload.wikimedia.org/wikipedia/commons/e/e1/Keras_logo.svg) **Transfer Learning**: Fine-tuning pre-trained models like VGG, ResNet, Inception  
-- ![Autoencoders](https://upload.wikimedia.org/wikipedia/commons/f/fd/Autoencoder_example.svg) **Autoencoders**: For unsupervised learning and anomaly detection  
-- ![Deep Learning](https://upload.wikimedia.org/wikipedia/commons/c/c9/Deep_learning_logo.png) **Deep Learning Frameworks**:  
+- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg =32x32) **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost, KNN  
+- ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg =32x32) **Unsupervised Learning**: K-Means Clustering, DBSCAN, PCA, Hierarchical Clustering  
+- ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg =32x32) **Neural Networks**: ANN, CNN, RNN  
+- ![Keras](https://upload.wikimedia.org/wikipedia/commons/e/e1/Keras_logo.svg =32x32) **Transfer Learning**: Fine-tuning pre-trained models like VGG, ResNet, Inception  
+- ![Autoencoders](https://upload.wikimedia.org/wikipedia/commons/f/fd/Autoencoder_example.svg =32x32) **Autoencoders**: For unsupervised learning and anomaly detection  
+- ![Deep Learning](https://upload.wikimedia.org/wikipedia/commons/c/c9/Deep_learning_logo.png =32x32) **Deep Learning Frameworks**:  
   - **TensorFlow**  
   - **Keras**  
   - **PyTorch**  
 
 ### **Other Skills:**
-- ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg) **Pandas**  
-- ![NumPy](https://upload.wikimedia.org/wikipedia/commons/9/9e/NumPy_logo.svg) **NumPy**  
-- ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/5/52/OpenCV_Logo_2022.svg) **OpenCV**  
-- ![Tableau](https://upload.wikimedia.org/wikipedia/commons/0/06/Tableau_Logo.svg) **Tableau** (Data Visualization)
+- ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg =32x32) **Pandas**  
+- ![NumPy](https://upload.wikimedia.org/wikipedia/commons/9/9e/NumPy_logo.svg =32x32) **NumPy**  
 
 ## Experience
 
