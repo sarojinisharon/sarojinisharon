@@ -39,14 +39,14 @@ I am a passionate **Data Analyst** with a strong focus on machine learning and d
 
 ### **Research Associate**  
 **New Brunswick Institute for Research and Data Training (NB-IRDT), Fredericton, New Brunswick**  
-**May 2024 – July 2024**  
+**May 2024 – August 2024**  
 - Conducted in-depth data analysis and modeling on large healthcare datasets using **Stata**, extracting actionable insights for healthcare research support.  
 - Developed a comprehensive dictionary of derived variables to ensure clarity and ease of use across different programming languages for future research.  
 - Collaborated with senior researchers to create statistical models that aided in better understanding the data and identifying trends and patterns relevant to healthcare.
 
 ### **Systems Engineer**  
 **Infosys**  
-**July 2022 – July 2024**  
+**Jan 2020 – Nov 2021**  
 - Worked as a **Systems Engineer**, focusing on automating testing processes and utilizing **Python**, **Java**, and **SQL** in an Agile environment.  
 - Developed automated testing frameworks using **Selenium WebDriver** and integrated with **Jenkins** for continuous integration.  
 - Enhanced software solutions and ensured the functionality of **machine learning** algorithms through rigorous testing and deployment.
