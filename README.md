@@ -29,7 +29,6 @@ I am a passionate **Data Analyst** with a strong focus on machine learning and d
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Autoencoders](https://img.shields.io/badge/Autoencoders-00B2A9?style=flat&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Autoencoder)
-[![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=flat&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
 
 ### **Other Skills:**
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
