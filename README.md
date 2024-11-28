@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Sharon!
 
-# Data Analyst | Machine Learning Enthusiast | Deep Learning & Neural Networks Expert
+# Data Analyst | Machine Learning | Deep Learning & Neural Networks Enthusiast
 
 ## Overview
 I am a passionate **Data Analyst** with a strong focus on machine learning and data science. My expertise spans **data analysis**, **model building**, and **deep learning** techniques. With extensive experience in **Python**, **SQL**, **Excel**, and **Power BI**, I strive to extract meaningful insights and actionable conclusions from data. I have hands-on experience in building machine learning models using advanced algorithms and frameworks such as **TensorFlow**, **Keras**, **PyTorch**, **Scikit-Learn**, along with a deep understanding of the key principles of **supervised** and **unsupervised learning**.
