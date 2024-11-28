@@ -45,7 +45,7 @@ I am a passionate **Data Analyst** with a strong focus on machine learning and d
 - Collaborated with senior researchers to create statistical models that aided in better understanding the data and identifying trends and patterns relevant to healthcare.
 
 ### **Systems Engineer**  
-**Infosys**  
+**Infosys, Chennai, India**  
 **Jan 2020 – Nov 2021**  
 - Worked as a **Systems Engineer**, focusing on automating testing processes and utilizing **Python**, **Java**, and **SQL** in an Agile environment.  
 - Developed automated testing frameworks using **Selenium WebDriver** and integrated with **Jenkins** for continuous integration.  
