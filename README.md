@@ -6,14 +6,12 @@
 ---
 
 ## 🌟 About Me  
-I’m a data analyst with a creative edge, blending **data analysis**, **AI**, **automation testing**, and **UX thinking** to turn raw data into actionable insights.  
+I’m a data analyst with a creative edge, blending **data analysis**, **AI** to turn raw data into actionable insights.  
 
 My background includes:  
 - **Data Analysis & AI:** Python, SQL, Power BI, STATA, TensorFlow, Keras, Scikit-Learn  
-- **Automation & Testing:** Selenium, SOAP UI, REST Assured, UAT, Regression Testing  
-- **UX & Design:** Figma, User Research, Journey Mapping, Accessibility (WCAG)  
-- **Content Strategy:** Social Media Campaigns, Data-Driven Storytelling
-
+- **Automation & Testing:** Selenium, SOAP UI, REST Assured, UAT, Regression Testing
+  
 I love transforming **complex data into clear stories** that empower business decisions and designing solutions that balance function and user experience.
 
 ---
@@ -36,7 +34,7 @@ I love transforming **complex data into clear stories** that empower business de
 
 ## 📚 Featured Work
 - **Healthcare Data Analysis** at NB-IRDT (Public Health Data Projects)  
-- **Infosys Projects** (QA Automation, Data Pipelines, API Testing, Advanced Excel)  
+- **Infosys Projects** (QA Automation, Reporting, Test Case Documentation API Testing, Advanced Excel)  
 - **UX Case Study:** Redesign of onboarding experience for Toggl Track  
 - **AI & ML Projects:** Predictive modeling, anomaly detection, computer vision
 
